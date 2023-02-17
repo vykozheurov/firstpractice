@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">firstpractice</string>
+    <string name="btnStart">press this for start</string>
 </resources>
